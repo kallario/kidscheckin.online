@@ -9,6 +9,12 @@
 	<meta name="format-detection" content="telephone=no">
 	<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 	<title>KIDS Checkin</title>
+
+    <meta name="description" content="KIDS Checkin o melhor sistema de Checkin do Brasil, controla entrada e saída das crianças dos eventos, informa o tempo de permanência, ideal para parques, igrejas e eventos.">
+    <meta name="keywords" content="KIDS, Checkin, Igreja, Evento, Entrada, Saída, Crianças, Etiquetas, Parques, Diversão">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"><!-- Extra Meta -->
+    <meta name="application-name" content="KIDSCheckin.online"/>
+
 	<link rel="stylesheet" href="css/fancySelect.css" />
 	<link rel="stylesheet" href="css/uniform.css" />
 	<link rel="stylesheet" href="css/jquery.bxslider.css" />
@@ -48,7 +54,6 @@
 											<a href="#"><img src="images/pic_carusel_01.png"  alt="" /></a>
 												<div class="hover">
 													<p>Perspiciatis unde omnis iste natus voluptatem</p>
-													<strong>$55.00</strong>
 												</div>
 											</div>
 										</div>
